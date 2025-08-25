@@ -17,7 +17,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🤳 Connect With Me
 
 [<img align="left" alt="https://linkedin.com/in/ianbrowne2621| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-\
 
 
 [linkedin]: https://linkedin.com/in/ianbrowne2621
